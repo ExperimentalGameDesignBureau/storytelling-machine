@@ -1,0 +1,6 @@
+id,group,content,tag
+0,,,
+1,1,凡是神结合的，人不能分开。,"(god, chinese)"
+2,1,"What God has joined together, let no one separate.","(god, english)"
+3,2,我今年{age}，我的名字是{name}。,(chinese)
+4,2,"id: {id}, group {group}",(english)
